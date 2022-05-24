@@ -33,8 +33,7 @@ def correcao_resp_iniciar(resp_iniciar):
     if resp_iniciar == 'sim':
         print('''
         Antes de começar, seguem algumas regras:
-        -A cada resposta respondida corretamente você ganhará 10 pontos
-         e para cada resposta errada perderá 10 pontos.         
+        -A cada resposta respondida corretamente você ganhará 10 pontos        
         -Para responder, basta digitar a letra da alternativa correta
         -A única maneira de avançar as questões do quiz é respondendo-as
          Ex: Para fazer a questão 5, é necessário antes responder a questão 4
